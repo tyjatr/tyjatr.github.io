@@ -359,3 +359,6 @@ p {
 	border: 1px solid #999999;
 	float: right;  
 }
+.linethrough {
+	text-decoration: line-through;
+}
