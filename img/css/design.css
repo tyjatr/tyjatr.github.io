@@ -216,6 +216,7 @@ a:active {
 	text-align: left;
 	margin-left: 0px;
 	float: left;
+	line-height: 25px;
 }
 .program_box_pravy {
 	background-color: #CCCCCC;
@@ -225,6 +226,7 @@ a:active {
 	border: 1px solid #999999;
 	text-align: left;
 	margin-bottom: 10px;
+	line-height: 25px;
 }
 .box_predstaveni_uzky {
 	background-color: #CCCCCC;
