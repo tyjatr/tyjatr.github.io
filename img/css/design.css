@@ -209,16 +209,28 @@ a:active {
 	background-image: url(../dsgn/hucul/menu_bg.jpg);
 }
 .program_box {
-	background-color: #CCCCCC;
+	background-color: #E8E8E8;
 	padding: 5px;
 	width: 428px;
 	border: 1px solid #999999;
 	text-align: left;
 	margin-left: 0px;
 	float: left;
-	line-height: 25px;
+	line-height: 30px;
+	font-size: 14px;
 }
 .program_box_pravy {
+	background-color: #E8E8E8;
+	padding: 5px;
+	float: right;
+	width: 428px;
+	border: 1px solid #999999;
+	text-align: left;
+	margin-bottom: 10px;
+	line-height: 30px;
+	font-size: 14px;
+}
+.program_box_pravy_barva {
 	background-color: #CCCCCC;
 	padding: 5px;
 	float: right;
@@ -226,8 +238,8 @@ a:active {
 	border: 1px solid #999999;
 	text-align: left;
 	margin-bottom: 10px;
-	line-height: 25px;
 }
+
 .box_predstaveni_uzky {
 	background-color: #CCCCCC;
 	text-align: left;
