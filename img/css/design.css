@@ -233,11 +233,12 @@ a:active {
 .program_box_pravy_barva {
 	background-color: #CCCCCC;
 	padding: 5px;
-	float: right;
+	float: left;
 	width: 428px;
 	border: 1px solid #999999;
 	text-align: left;
 	margin-bottom: 10px;
+	margin-top: 40px;
 }
 
 .box_predstaveni_uzky {
