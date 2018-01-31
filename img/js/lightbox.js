@@ -58,7 +58,7 @@ LightboxOptions = Object.extend({
 
 	// When grouping images this is used to write: Image # of #.
 	// Change it for non-english localization
-	labelImage: "Obr·zek",
+	labelImage: "Obr√°zek",
 	labelOf: "z"
 }, window.LightboxOptions || {});
 
